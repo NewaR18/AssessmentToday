@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\bin\Debug\net6.0\qsn8.exe
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\bin\Debug\net6.0\qsn8.deps.json
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\bin\Debug\net6.0\qsn8.runtimeconfig.json
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\bin\Debug\net6.0\qsn8.dll
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\bin\Debug\net6.0\qsn8.pdb
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\obj\Debug\net6.0\qsn8.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\obj\Debug\net6.0\qsn8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\obj\Debug\net6.0\qsn8.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\obj\Debug\net6.0\qsn8.AssemblyInfo.cs
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\obj\Debug\net6.0\qsn8.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\obj\Debug\net6.0\qsn8.dll
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\obj\Debug\net6.0\refint\qsn8.dll
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\obj\Debug\net6.0\qsn8.pdb
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\obj\Debug\net6.0\qsn8.genruntimeconfig.cache
+C:\Users\sudip\source\repos\Board\qsn8\qsn8\obj\Debug\net6.0\ref\qsn8.dll

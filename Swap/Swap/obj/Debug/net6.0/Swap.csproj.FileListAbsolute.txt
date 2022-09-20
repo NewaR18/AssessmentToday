@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\Board\Swap\Swap\bin\Debug\net6.0\Swap.exe
+C:\Users\sudip\source\repos\Board\Swap\Swap\bin\Debug\net6.0\Swap.deps.json
+C:\Users\sudip\source\repos\Board\Swap\Swap\bin\Debug\net6.0\Swap.runtimeconfig.json
+C:\Users\sudip\source\repos\Board\Swap\Swap\bin\Debug\net6.0\Swap.dll
+C:\Users\sudip\source\repos\Board\Swap\Swap\bin\Debug\net6.0\Swap.pdb
+C:\Users\sudip\source\repos\Board\Swap\Swap\obj\Debug\net6.0\Swap.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\Board\Swap\Swap\obj\Debug\net6.0\Swap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\Board\Swap\Swap\obj\Debug\net6.0\Swap.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\Board\Swap\Swap\obj\Debug\net6.0\Swap.AssemblyInfo.cs
+C:\Users\sudip\source\repos\Board\Swap\Swap\obj\Debug\net6.0\Swap.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\Board\Swap\Swap\obj\Debug\net6.0\Swap.dll
+C:\Users\sudip\source\repos\Board\Swap\Swap\obj\Debug\net6.0\refint\Swap.dll
+C:\Users\sudip\source\repos\Board\Swap\Swap\obj\Debug\net6.0\Swap.pdb
+C:\Users\sudip\source\repos\Board\Swap\Swap\obj\Debug\net6.0\Swap.genruntimeconfig.cache
+C:\Users\sudip\source\repos\Board\Swap\Swap\obj\Debug\net6.0\ref\Swap.dll
